@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxchalk
 - 👀 I’m interested in Learning programming and Linux
-- 🌱 I’m currently learning C++ and Data Structures
+- 🌱 I’m currently learning Core Java and Data Structures
 - 💞️ I’m looking to collaborate on Web application
 - 📫 How to reach me:spandankumar476@gmail.com
 
