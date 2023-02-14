@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @maxchalk
-- 👀 I’m interested in Learning programming and Linux
+- 👋 Hi, I’m Spandan
+- 👀 I’m interested in Problem Solving and Web development
 - 🌱 I’m currently learning Core Java and Data Structures
 - 💞️ I’m looking to collaborate on Web application
 - 📫 How to reach me:spandankumar476@gmail.com
