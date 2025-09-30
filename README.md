@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Spandan
-- 👀 I’m interested in Problem Solving and Web development
+- 👋 Hi, I’m Venkatesh Spandan
+- 👀 I’m interested in Problem Solving and Full Stack Web development
 - 🌱 I’m currently learning Core Java and Data Structures
 - 💞️ I’m looking to collaborate on Web application
 - 📫 How to reach me: venkateshspandan@gmail.com
