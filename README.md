@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Venkatesh Spandan
-- 👀 I’m interested in Problem Solving and Full Stack Web development
-- 🌱 I’m currently learning Core Java and Data Structures
-- 💞️ I’m looking to collaborate on Web application
-- 📫 How to reach me: venkateshspandan@gmail.com
+👋 Hi, I’m Venkatesh Spandan
+
+👀 I’m passionate about Problem Solving and Full Stack Web Development
+
+🌱 I’m a Software Engineer with 3+ years of hands-on experience in building scalable Java and web applications
+
+💞️ I’m looking to collaborate on innovative web and enterprise applications
+
+📫 How to reach me: venkateshspandan@gmail.com
 
 <!---
 maxchalk/maxchalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
