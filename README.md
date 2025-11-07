@@ -2,7 +2,7 @@
 
 👀 I’m passionate about Problem Solving and Full Stack Web Development
 
-🌱 I’m a Software Engineer with 3+ years of hands-on experience in building scalable Java and web applications
+🌱 I’m a Software Engineer with hands-on experience in building scalable Java and web applications
 
 💞️ I’m looking to collaborate on innovative web and enterprise applications
 
